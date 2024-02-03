@@ -45,3 +45,20 @@ button{
 .del {
     grid-column: span 2;
 }
+@media (max-width:600px) {
+    .container{
+        padding-right: 60px;
+        padding-bottom: 120px;
+    }
+    .calculator{
+        width: 320px;
+    }
+    #screen{
+        width: 310px;
+        margin: 20px 5px;
+    }
+    .buttons{
+        width: 300px;
+        margin: 30px 10px;
+    }
+}
