@@ -30,10 +30,10 @@ html,body{
 }
 #screen{
     height: 10%;
-    width: 85%;
+    width: 90%;
     border: 1px solid black;
     border-radius: 10px;
-    margin: 10px 30px;
+    margin: 5% 5%;
     background: none;
     color: rgb(75, 255, 195);
 }
@@ -61,9 +61,5 @@ button{
     .calculator{
         height: 80%;
         width: 80%;
-    }
-    #screen{
-        width:89%;
-        margin-top: 5%;
     }
 }
